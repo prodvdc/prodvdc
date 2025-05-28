@@ -9,7 +9,6 @@
 ✅    Backend: Node, FastAPI, Spring Boot, .NET, ROR<br />
 ✅    Blockchain: Web3, Ethersjs, Solidity, Hardhat, Rust, NFT, Dex <br />
 
-<br />
 
 ### Projects
 
@@ -21,6 +20,7 @@
 - Snowball Finance ([Github](https://github.com/Snowball-Finance/app-v2) | [Website](https://snowball.network) | [DApp](https://app.snowball.network))
 - Epic Cash ([Website](https://epiccash.com))
 
+<br />
 
 **Languages and Tools:**  
 
