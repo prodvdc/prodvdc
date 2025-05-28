@@ -2,6 +2,7 @@
 
 ### Senior Fullstack AI and Web Engineer<br />
 
+<img align='right' src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" width="250">
 ✅    Languages: Javascript, Typescript, Python, Java, C#, Go, R<br />
 ✅    AI: GenAI, LLM, RAG, NLP, OpenAI API<br />
 ✅    ML: Scikit-learn, TensorFlow / Keras, PyTorch, Hugging Face  <br />
