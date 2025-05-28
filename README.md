@@ -9,13 +9,14 @@
 ✅    Backend: Node, FastAPI, Spring Boot, .NET, ROR<br />
 ✅    Blockchain: Web3, Ethersjs, Solidity, Hardhat, Rust, NFT, Dex <br />
 
-
 <br />
 
 ### Projects
 
 - Kaiber AI - GenAI ([Website](https://kaibarai.com/))
 - Mindstamp - Interactive Video Platform ([Website](https://mindstamp.com/))
+- HeroesOfNft ([Website](https://www.heroesofnft.com) | [App](https://app.heroesofnft.com/))
+- Fief ([Website](https://www.fief.gg/) | [Portals](https://portals.fief.gg/))
 - Sync Network ([GitHub](https://github.com/C-O-F-E/SYNC-LEND) | [Sync Bond](https://syncbond.com/) | [Website](https://syncnetwork.io/))
 - Snowball Finance ([Github](https://github.com/Snowball-Finance/app-v2) | [Website](https://snowball.network) | [DApp](https://app.snowball.network))
 - Epic Cash ([Website](https://epiccash.com))
