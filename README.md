@@ -1,6 +1,6 @@
 ### 🌱 Make it work, make it right, make it fast.🔥
 
-### Fullstack AI and Web developer with strong knowledge and hands-on experience in <br />
+### Fullstack AI and Web developer<br />
 
 ✅    Languages: Javascript, Typescript, Python, Java, C#, Go, R<br />
 ✅    AI: GenAI, LLM, RAG, NLP, OpenAI API<br />
