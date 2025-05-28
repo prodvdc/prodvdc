@@ -1,6 +1,6 @@
 ### 🌱 Make it work, make it right, make it fast.🔥
 
-### Fullstack AI and Web developer<br />
+### Senior Fullstack AI and Web Engineer<br />
 
 ✅    Languages: Javascript, Typescript, Python, Java, C#, Go, R<br />
 ✅    AI: GenAI, LLM, RAG, NLP, OpenAI API<br />
@@ -11,6 +11,15 @@
 
 
 <br />
+
+
+### Projects
+
+- Kaiber AI - GenAI ([Website](https://kaibarai.com/))
+- Mindstamp - Interactive Video Platform ([Website](https://mindstamp.com/))
+- Sync Network ([GitHub](https://github.com/C-O-F-E/SYNC-LEND) | [Sync Bond](https://syncbond.com/) | [Website](https://syncnetwork.io/))
+- Snowball Finance ([Github](https://github.com/Snowball-Finance/app-v2) | [Website](https://snowball.network) | [DApp](https://app.snowball.network))
+- Epic Cash ([Website](https://epiccash.com))
 
 **Languages and Tools:**  
 
