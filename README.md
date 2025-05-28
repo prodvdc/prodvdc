@@ -11,8 +11,6 @@
 
 
 <br />
-
-
 ### Projects
 
 - Kaiber AI - GenAI ([Website](https://kaibarai.com/))
@@ -20,6 +18,7 @@
 - Sync Network ([GitHub](https://github.com/C-O-F-E/SYNC-LEND) | [Sync Bond](https://syncbond.com/) | [Website](https://syncnetwork.io/))
 - Snowball Finance ([Github](https://github.com/Snowball-Finance/app-v2) | [Website](https://snowball.network) | [DApp](https://app.snowball.network))
 - Epic Cash ([Website](https://epiccash.com))
+
 
 **Languages and Tools:**  
 
